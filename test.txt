@@ -1,0 +1,9 @@
+UART Tx:> AT+CSMINS?
+
+UART Rx:> AT+CSMINS?
++CSMINS: 0,1
+
+OK
+
+
+33 characters returned

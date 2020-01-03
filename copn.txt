@@ -1,5 +1,6 @@
 UART Tx:> AT+COPN
 
+
 +COPN: "20201","COSMOTE"
 +COPN: "20205","vodafone"
 +COPN: "20209","Q-TELECOM"
@@ -626,4 +627,6 @@ UART Tx:> AT+COPN
 +COPN: "90112","Maritime Comm Partner AS"
 
 OK
+
+
 18740 characters returned
